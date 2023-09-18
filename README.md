@@ -1,4 +1,4 @@
-# Your Project Name (Frontend)
+# Product Assessment Frontend
 
 ## Description
 This is the frontend part of the project that displays a product page using React with Material UI.
@@ -10,5 +10,5 @@ This is the frontend part of the project that displays a product page using Reac
 ## Installation
 1. Make sure you have Node.js and npm installed.
 2. Clone this repository:
-3. Run command "npm install"
-4. Run command "npm start"
+3. Run the command "npm install"
+4. Run the command "npm start"
